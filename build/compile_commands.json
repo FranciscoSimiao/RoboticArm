@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/karapinha/Desktop/Personal/Programming/c++/RoboticArm/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /opt/homebrew/Cellar/opencv/4.9.0_9/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/MyProject.dir/main.cpp.o -c /Users/karapinha/Desktop/Personal/Programming/c++/RoboticArm/main.cpp",
+  "file": "/Users/karapinha/Desktop/Personal/Programming/c++/RoboticArm/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.o"
+}
+]

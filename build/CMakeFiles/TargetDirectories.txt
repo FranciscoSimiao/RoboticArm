@@ -1,0 +1,3 @@
+/Users/karapinha/Desktop/Personal/Programming/c++/RoboticArm/build/CMakeFiles/MyProject.dir
+/Users/karapinha/Desktop/Personal/Programming/c++/RoboticArm/build/CMakeFiles/edit_cache.dir
+/Users/karapinha/Desktop/Personal/Programming/c++/RoboticArm/build/CMakeFiles/rebuild_cache.dir
